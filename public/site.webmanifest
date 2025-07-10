@@ -1,0 +1,20 @@
+{
+  "name": "Pritam's Portfolio",
+  "short_name": "Pritam",
+  "description": "Full-Stack Developer & UI/UX Designer Portfolio",
+  "icons": [
+    {
+      "src": "/favicon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/favicon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "theme_color": "#5A67D8",
+  "background_color": "#ffffff",
+  "display": "standalone"
+} 
